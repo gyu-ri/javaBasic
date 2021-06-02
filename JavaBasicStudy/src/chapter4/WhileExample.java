@@ -15,7 +15,7 @@ public class WhileExample {
 			 
 	}
 //		do {                    //위에 사용한 while문이랑 결과 값은 동일 do에 수행문을 적어주고
-//			sum += num;         // while에 조건 체크를 해준다
+//			sum += num;         // while문으로 조건 체크를 해준다
 //			num++;
 //		}while(num <= 10);
 			
